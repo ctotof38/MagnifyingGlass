@@ -1,4 +1,4 @@
-This Android simulate a magnifying glass, without ads
+This Android application simulate a magnifying glass, without ads
 
 It was generated largely by the AI built into Android Studio
 
