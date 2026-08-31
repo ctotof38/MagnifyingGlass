@@ -38,7 +38,7 @@ android {
 androidComponents {
     onVariants(selector().withBuildType("debug")) { variant ->
         variant.outputs.forEach { output ->
-            output.outputFileName.set("loupe.apk")
+            output.outputFileName.set("magnifying-glass.apk")
         }
     }
 }
